@@ -36,7 +36,6 @@
 *.filters
 *.user
 *.log
-*.asm
 
 *.suo
 *.db
